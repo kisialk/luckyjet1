@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://luckyjetlaki.icu/sitemaps.xml
+Sitemap: https://luckyjet1.vercel.app/sitemaps.xml
